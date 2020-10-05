@@ -1,1 +1,1 @@
-# agenda-beleza-api
+# api-agenda-beleza
